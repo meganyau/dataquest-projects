@@ -2,6 +2,7 @@
 
 | Certificate                               | Issuer    | Date       | Verify |
 |-------------------------------------------|-----------|------------|--------|
+| Combining Tables in SQL                   | Dataquest | Nov 2025   | https://app.dataquest.io/view_cert/U297K4EAUU9JGUU859L5
 | SQL and Databases                         | Dataquest | Nov 2025   | https://app.dataquest.io/view_cert/METSZHI18ZTXB1RC8OUX |
 | Data Cleaning & Analysis in Python        | Dataquest | Oct 2025   | https://app.dataquest.io/verify_cert/GZON4EYDIYGAFXSDWKOD/ |
 | Data Visualization and Information Design | Dataquest | Oct 2025   | https://app.dataquest.io/view_cert/CSCW57EU73DOP0IGDDZ6 |
@@ -10,4 +11,4 @@
 | Basic Operators and Data Structures       | Dataquest | July 2025  | https://app.dataquest.io/view_cert/T6L43XXO9J4X02O1TEYP |
 
 
-**Skills covered:** Python, pandas, matplotlib, SQL (joins/window functions), ML
+**Skills covered:** Python, pandas, matplotlib, SQL, ML
