@@ -4,4 +4,5 @@ A collection of my data analysis/data science projects done through dataquest. E
 
 ## Projects
 - **Exit Surveys (DETE & TAFE):** Resignation dissatisfaction by tenure and age → `exit-surveys/`
-- **I-94 Traffic Report:** Indicators of heavy traffic by time(month/weekday/hour) and weather -> `I94-traffic/`
+- **I-94 Traffic Report:** Indicators of heavy traffic by time(month/weekday/hour) and weather → `I94-traffic/`
+- **Financial data analysis:** Analyzed financial performance trends using Nasdaq Data Link API with a focus on accrued expenses turnover → 'financial_data/'
