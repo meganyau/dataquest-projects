@@ -6,3 +6,4 @@ A collection of my data analysis/data science projects done through dataquest. E
 - **Exit Surveys (DETE & TAFE):** Resignation dissatisfaction by tenure and age 
 - **I-94 Traffic Report:** Indicators of heavy traffic by time(month/weekday/hour) and weather 
 - **Financial data analysis:** Analyzed financial performance trends using Nasdaq Data Link API with a focus on accrued expenses turnover
+- **ds-topic:** Data-driven analysis of Data Science Stack Exchange to determine which topics a data science education company should prioritize based on usage, trends, and engagement.
