@@ -2,7 +2,7 @@
 
 Exploratory analysis of Data Science Stack Exchange posts to identify high-impact topics for a data science education company based on popularity, trend growth, and engagement.
 
-**Notebook:** `ds-stackexchange-topic-analysis.ipynb`  
+**Notebook:** `ds-analysis.ipynb`  
 **Data:** SEDE Data Science Stack Exchange extracts (2019 + historical dataset)
 
 ## Methods
