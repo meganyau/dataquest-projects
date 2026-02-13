@@ -1,6 +1,14 @@
 # dataquest-projects
 A collection of my data analysis/data science projects done through dataquest. Each folder contains a Jupyter notebook and a short README
 
+## Core Skills Demonstrated
+- Data cleaning & preprocessing
+- Time-series analysis
+- Engagement modeling (Lift, rate comparison)
+- Feature engineering
+- SQL & API data extraction
+- Business-driven analytical framing
+
 
 ## Projects
 - **Exit Surveys (DETE & TAFE):** Resignation dissatisfaction by tenure and age 
