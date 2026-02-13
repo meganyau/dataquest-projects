@@ -3,7 +3,6 @@
 Exploratory analysis of Ask HN and Show HN posts to compare average comment engagement and identify time-based indicators of higher discussion activity.
 
 **Notebook:** `hn_engagement.ipynb`  
-**Data:** `hacker_news.csv`
 
 ## Methods
 
